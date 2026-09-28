@@ -539,3 +539,9 @@ python3 -m PyInstaller --onefile --distpath . --workpath /tmp/pyinstaller --spec
 - [SPEC.md](SPEC.md) - Complete language specification
 - [common/jj.json](common/jj.json) - Language definition file
 - [examples/](examples/) - Example programs
+
+---
+
+**AgentiLoop:** [agentiloop.ai](https://agentiloop.ai/)
+
+Copyright © 2026 AgentiLoop.ai, a Logos InkPen LLC company. All rights reserved.

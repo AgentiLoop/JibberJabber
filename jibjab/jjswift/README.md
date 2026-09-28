@@ -133,3 +133,9 @@ target source → ReverseTranspiler → .jj source (reverse)
 - [../README.md](../README.md) - Implementation details
 - [../SPEC.md](../SPEC.md) - Language specification
 - [../../README.md](../../README.md) - Project overview
+
+---
+
+**AgentiLoop:** [agentiloop.ai](https://agentiloop.ai/)
+
+Copyright © 2026 AgentiLoop.ai, a Logos InkPen LLC company. All rights reserved.

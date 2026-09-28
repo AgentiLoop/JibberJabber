@@ -132,3 +132,9 @@ BattleScript uses `jjswift` as a local Swift Package Manager dependency. The `JJ
 - [Main README](../README.md) - JibberJabber project overview
 - [jibjab/README.md](../jibjab/README.md) - CLI implementation details
 - [jibjab/SPEC.md](../jibjab/SPEC.md) - JibJab language specification
+
+---
+
+**AgentiLoop:** [agentiloop.ai](https://agentiloop.ai/)
+
+Copyright © 2026 AgentiLoop.ai, a Logos InkPen LLC company. All rights reserved.
