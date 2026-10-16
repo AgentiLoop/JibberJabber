@@ -5,6 +5,9 @@
 
 ## JJ aka JibberJabber AI programming language 1.0 by AgentiLoop
 
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
+
 An **AI-first programming language** created by [AgentiLoop](https://github.com/SuperBox64). JibberJabber is a polyglot engine designed to integrate AI models as primary execution components rather than external tools. It supports transcoding and cross-compilation across multiple environments, bridging high-level AI logic and system performance.
 
 ```jj
